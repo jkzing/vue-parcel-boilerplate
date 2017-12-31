@@ -1,0 +1,10 @@
+{
+  "name": "vue-cli-template-parcel",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "A template for building Vue with parceljs.",
+  "scripts": {},
+  "devDependencies": {
+    "vue-cli": "^2.8.1"
+  }
+}
